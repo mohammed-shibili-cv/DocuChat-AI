@@ -1,5 +1,5 @@
 {
   "name": "DocuChat AI",
-  "description": "An intelligent document chat application that allows you to upload invoices, receipts, and other documents and ask questions about their content using the power of Gemini.",
+  "description": "An intelligent document chat application that allows you to upload invoices and receipts to build a persistent knowledge base. Features an AI-powered scanner to automatically extract data from receipts into a structured form.",
   "requestFramePermissions": []
 }
